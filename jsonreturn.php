@@ -13,5 +13,5 @@ array ("color"=>"solid","size"=>"M","L")
 		
 $data = json_encode($item);
 echo $data; 
-
+//
 ?>
